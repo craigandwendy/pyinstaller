@@ -24,9 +24,6 @@ pyinstaller -w  --onefile --icon=my_app.icns  my_app.py
 Keep in mind store your icon file in the same folder as your Python project and make sure that your icon is a .icns file.
 You can now exit the terminal and go to dist and double-click the file inside. This time you app will start without showing a prompt/terminal.
 
-
-## Final
-
 ## Useful Links
 Official docs https://pyinstaller.org/en/stable/
 
