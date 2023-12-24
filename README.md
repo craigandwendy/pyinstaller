@@ -30,3 +30,5 @@ Official docs https://pyinstaller.org/en/stable/
 YouTube tutorial https://www.youtube.com/watch?v=QWqxRchawZY
 
 Free icons https://icon-icons.com
+
+Since setting icons might fail check out this link https://www.idownloadblog.com/2023/01/19/how-to-change-app-icons-mac/#:~:text=2)%20Right%2Dclick%20the%20application,icon%20file%20over%20the%20original.
